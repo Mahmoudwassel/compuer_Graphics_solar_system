@@ -1,0 +1,73 @@
+﻿  imageloader.cpp
+  main.cpp
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(26,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(26,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(37,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(45,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(47,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(48,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(49,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(50,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(51,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(52,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(53,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(54,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(55,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(56,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(57,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(58,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(59,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(60,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(61,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(62,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(63,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(139,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(139,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(140,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(140,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(141,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(141,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(142,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(142,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(143,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(143,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(144,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(144,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(145,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(145,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(146,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(146,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(147,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(147,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(189,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(202,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(202,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(225,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(225,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(248,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(248,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(271,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(271,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(300,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(300,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(318,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(331,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(331,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(351,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(364,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(364,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(370,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(370,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(371,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(371,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(388,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(401,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(401,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(417,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(430,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(430,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(459,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\main.cpp(459,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Generating Code...
+  SolarSystem.vcxproj -> D:\Lectures\Computer Graphics\section\New folder\Solar-system-master\Debug\SolarSystem.exe
